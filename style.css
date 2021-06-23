@@ -1,0 +1,201 @@
+.custom_nav{
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.3);
+    opacity: 0.9;
+}
+.navbar-light{
+    background-color: rgb(126, 220, 235) ;
+}
+.nav-link{
+    color: white !important;
+}
+.custom_nav ul.dropdown-menu {
+    font-size: small;
+}
+.btn-register , .btn-search{
+    background-color: rgb(20, 110, 194);
+    color: white;
+}
+.main-bannner{
+    padding-top: 100px;
+    padding-bottom: 100px ;
+    background-image: url(images/daniil-kuzelev-2OfqcRCaiuo-unsplash.jpg);
+    color: white;
+    /*background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;*/
+    background-size:cover;
+}
+.feature_holder {
+    text-align: center;
+    margin-bottom: 25px;
+}
+section.features {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background-color: rgb(231, 253, 255);
+}
+.feature_holder h3 {
+    font-size: 20px;
+}
+.feature_holder p {
+    font-size: 15px;
+}
+section.online_courses, .classroom-training , .reviews-slider{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.online-course-text-widget, .classroom-course-text-widget , .review-text-widget {
+    text-align: center;
+}
+.online-course-text-widget h2, .classroom-course-text-widget h2 , .review-text-widget h2 {
+    font-size: 20px;
+}
+.online-course-text-widget p, .classroom-course-text-widget p , .review-text-widget p {
+    font-size: 15px;
+}
+.online-course-card , .review-text-widget {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.online-course-card .card-title {
+    font-size: 18px;
+    line-height: 25px;
+}
+.card.online-course-card .card-text {
+    font-size: 14px;
+}
+.classroom-training {
+    background-color: rgb(241 21 122 / 11%);
+}
+.sign-up-form-sidebar{
+    background-color: rgb(123, 10, 138);
+}
+.sign-up-form-sidebar h4 {
+    font-size: 20px;
+}
+.sign-up-form-sidebar p {
+    font-size: 15px;
+}
+.btn-signup-register{
+    background-color: rgb(241 21 122);
+    color: white;
+}
+.head-training{
+    background-color: rgb(123, 10, 138);
+    color: white;
+}
+.course-list-item {
+    font-size: small;
+    padding: 15px;
+}
+section.reviews-slider {
+    background: #e8e1e13d;
+}
+#review-slider-content li .card{
+    text-align: center;
+}
+#review-slider-content li .card img{
+    width: 50px;
+    padding-bottom: 15px;
+}
+#review-slider-content li .card .card-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+#review-slider-content li .card .star{
+    color: orange;
+    font-size: 14px;
+}
+#review-slider-content li .card .card-text{
+    font-size: 14px;
+}
+
+/* Fotter */
+footer.main-fotter {
+    background-color: rgb(34, 32, 30);
+    padding-top: 35px;
+    padding-bottom: 35px;
+    color: white;
+}
+aside.fotter-widget h5 {
+    font-size: 16px;
+}
+aside.fotter-widget ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+aside.fotter-widget ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #b5b0b0;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+address h2 {
+    font-size: 20px;
+}
+address p {
+    font-size: 14px;
+}
+.copy{
+    background-color: crimson;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 14px;
+}
+.copy p{
+    margin: 0px;
+}
+
+/* About-Us */
+section.page-container {
+    background: whitesmoke;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.card-header {
+    background-color: #0a848a;
+    color: white;
+    font-size: 20px;
+}
+
+/* Contac-Us */
+.contact-body{
+    background-image: url(images/markus-spiske-fzdB1pW12Ek-unsplash.jpg);
+    background-size: cover;
+}
+.contact-form{
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.3);
+    background-color:whitesmoke;
+}
+.contact-form > .card-body > .card-title{
+    color: rgb(20, 6, 4);
+}
+#contact-details .icons svg{
+    color: rgb(19, 18, 18);
+}
+#contact-details .icons {
+    color: white;
+}
+#contact-details p{
+    font-size: 18px;
+}
+.contact-form .message{
+     height: 150px;
+}
+section.contact-container {
+    color: rgb(10, 10, 10);
+    padding-top: 70px;
+    padding-bottom: 55px;
+}
+.contact-para{
+    text-align: center;
+    font-size: 18px;
+}
+.btn-send-message{
+    background-color: black;
+    color: white;
+}
